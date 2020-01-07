@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj",
+        "projectName": "MathService",
+        "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj",
+        "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj",
+        "projectName": "NUnitTestProject1",
+        "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj",
+        "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj": {
+                "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

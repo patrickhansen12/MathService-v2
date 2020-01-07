@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
+        "projectName": "FoqAndMoqTests",
+        "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
+        "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Foq": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Moq.FSharp.Extensions": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
