@@ -281,11 +281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj",
+      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\MathService\\MathService.fsproj",
       "projectName": "MathService",
-      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj",
+      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\MathService\\MathService.fsproj",
       "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\obj\\",
+      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\MathService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",

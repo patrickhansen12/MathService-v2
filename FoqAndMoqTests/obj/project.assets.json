@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
+      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
       "projectName": "FoqAndMoqTests",
-      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
+      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\FoqAndMoqTests\\FoqAndMoqTests.fsproj",
       "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\FoqAndMoqTests\\obj\\",
+      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\FoqAndMoqTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",

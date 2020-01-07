@@ -5876,11 +5876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj",
+      "projectUniqueName": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\NUnitTestProject1\\NUnitTestProject1.fsproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\NUnitTestProject1.fsproj",
+      "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\NUnitTestProject1\\NUnitTestProject1.fsproj",
       "packagesPath": "C:\\Users\\mussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5896,8 +5896,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj": {
-              "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService\\MathService\\MathService.fsproj"
+            "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\MathService\\MathService.fsproj": {
+              "projectPath": "C:\\Users\\mussi\\OneDrive\\Dokumenter\\GitHub\\MathService-v2\\MathService\\MathService.fsproj"
             }
           }
         }
